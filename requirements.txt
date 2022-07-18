@@ -1,0 +1,4 @@
+argparse
+
+tflite-runtime>=2.7.0
+tflite-support>=0.3.1
